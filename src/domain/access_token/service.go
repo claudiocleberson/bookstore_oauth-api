@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	"github.com/claudiocleberson/bookstore_oauth-api/src/repository/rest_apis"
-	"github.com/claudiocleberson/bookstore_users-api/utils/rest_err"
+	"github.com/claudiocleberson/bookstore_utils-shared/utils/rest_err"
 )
 
 type Service interface {
