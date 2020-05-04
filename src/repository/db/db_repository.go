@@ -2,7 +2,7 @@ package db
 
 import (
 	"github.com/claudiocleberson/bookstore_oauth-api/src/domain/access_token"
-	"github.com/claudiocleberson/bookstore_users-api/utils/rest_err"
+	"github.com/claudiocleberson/bookstore_utils-shared/utils/rest_err"
 	"github.com/gocql/gocql"
 )
 
